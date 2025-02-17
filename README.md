@@ -12,6 +12,13 @@
 6 Which employees have frequent short absences?  
 
 ## Dashboard interaction
-<a href =<"
+<a href ="https://github.com/manyabansal406/Data-Analysis-Dashboard/blob/main/HR-Analysis%20Dashboard.PNG">Dashboard</a>
+
+## Process
+1 Collect the data and clesn it by removing missing values and anomalies.
+2 KPIs calculation using DAX measures.
+3 Creation on dashboard using graphs and charts.
+4 Apply filters & slicers for drill-down analysis.
+
 
 
